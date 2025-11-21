@@ -3,13 +3,13 @@ The Online Pet Adoption System is a Java-based platform where users can browse p
 Admins can manage pet records and approve or reject adoption applications.
 
 
-****Project Includes**
-**
+******Project Includes********
+
 User login, pet browsing, pet details, and adoption request.
 
 Admin login, pet management, and approval/rejection of requests.
 
-**Project Structure**
+****Project Structure********
 
 Model Layer: Pet, User, AdoptionRequest classes
 
