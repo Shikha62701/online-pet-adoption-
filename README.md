@@ -5,11 +5,17 @@ Admins can manage pet records and approve or reject adoption applications.
 
 ********Project Includes*********
 
+
+
+
 User login, pet browsing, pet details, and adoption request.
 
 Admin login, pet management, and approval/rejection of requests.
 
 ******Project Structure*********
+
+
+
 
 Model Layer: Pet, User, AdoptionRequest classes
 
