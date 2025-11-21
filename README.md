@@ -24,3 +24,7 @@ Service Layer: UserService, AdminService, PetService
 Data Layer: File/MySQL database for storing pets & users
 
 UI Layer: Console/GUI (Swing) for interaction
+
+
+******Setup Instructions******
+Install JDK, set up the project folders, add Java files, and run the Main class to start the application.
